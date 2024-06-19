@@ -25,21 +25,21 @@ print(f"Answer for {operator} is : {total}")
 # OUTPUT
 
 # Choose operator (+,-,*,/):+
-# Enter numbers seperate with ',:1,2,3,4,5
+# Enter numbers seperate with :1,2,3,4,5
 # ['1', '2', '3', '4', '5']
 # Answer for + is : 15
 
 # Choose operator (+,-,*,/):-
-# Enter numbers seperate with ',:1,2,3,4,5
+# Enter numbers seperate with :1,2,3,4,5
 # ['1', '2', '3', '4', '5']
 # Answer for - is : -13
 
 # Choose operator (+,-,*,/):*
-# Enter numbers seperate with ',:1,2,3,4,5
+# Enter numbers seperate with :1,2,3,4,5
 # ['1', '2', '3', '4', '5']
 # Answer for * is : 120
 
 # Choose operator (+,-,*,/):/
-# Enter numbers seperate with ',:1,2,3,4,5
+# Enter numbers seperate with :1,2,3,4,5
 # ['1', '2', '3', '4', '5']
 # Answer for / is : 0.008333333333333333
