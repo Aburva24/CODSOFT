@@ -1,6 +1,6 @@
 # Python program for simple Calculator
 operator=input("Choose operator (+,-,*,/):")
-num=input("Enter numbers seperate with ',:").split(',')
+num=input("Enter numbers seperate with :").split(',')
 print(num)
 total=0
 if operator=="+":
