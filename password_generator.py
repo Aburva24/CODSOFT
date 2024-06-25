@@ -27,13 +27,13 @@ if(length>=8):
         for i in range(length):
             randomchar=random.choice(char)
             password.append(randomchar)
-        print("Your password is"+"".join(password))
+        print("Your password is "+"".join(password))
 else:
     print("The length of the password should be greater than 8")
 #Output
 # Enter the length of the password: 7
 # The length of the password should be greater than 8
 # Enter the length of the password: 8
-#  Enter your choice (Strong/Normal)=normal Your password isKsSsPQmf
+#  Enter your choice (Strong/Normal)=normal Your password is KsSsPQmf
 # Enter the length of the password:9
-# Enter your choice (Strong/Normal)=strong Your password isRht) B[^c/g,*@
+# Enter your choice (Strong/Normal)=strong Your password is B[^c/g,*@
