@@ -36,4 +36,4 @@ else:
 # Enter the length of the password: 8
 #  Enter your choice (Strong/Normal)=normal Your password isKsSsPQmf
 # Enter the length of the password:9
-# Enter your choice (Strong/Normal)=strong Your password isRht) B[^c'
+# Enter your choice (Strong/Normal)=strong Your password isRht) B[^c/g,*@
